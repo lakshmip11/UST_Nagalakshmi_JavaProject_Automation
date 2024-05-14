@@ -1,0 +1,10 @@
+footer_text:
+xpath = //*[@id="rh_footer rdc-login"]/div[2]/div/div/div[2]/div[3]/span
+
+      = "//*[@class=\"rdc-ibibo\"]//child::span"
+
+
+header_text:
+xpath = //*[@class="hero-tag"]
+      = //h1[contains(text(), "Book your journey")]
+
